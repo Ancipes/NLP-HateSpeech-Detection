@@ -2,11 +2,11 @@
 
 ## Project Status
 
-We have built a few fully working hate speech detection models. This project is currently in hibernation, in that there's not an active use case at the moment but the models are ready to go. Every once in a while we'll tweak the models a bit but in general, there is not active development on this project. 
+I have built a few fully working hate speech detection models. This project is currently in hibernation, in that there's not an active use case at the moment but the models are ready to go. Every once in a while I'll tweak the models a bit but in general, there is not active development on this project. 
 
 ## Data
 
-We are currently working with the data collected by [Davidson et al.](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15665) for their research on hate speech detection. The dataset contains tweets that are labeled as either hate speech, offensive language, or neither. The data were pulled from [Hatebase.org](https://www.hatebase.org/), an organization that collects instances of potential hate speech. The data were then labeled using [CrowdFlower](https://www.crowdflower.com/), which uses non-specialists to clean and label data. Each tweet was reviewed by three or more people and a majority-wins approach was taken when there was disagreement.
+I am currently working with the data collected by [Davidson et al.](https://aaai.org/ocs/index.php/ICWSM/ICWSM17/paper/view/15665) for their research on hate speech detection. The dataset contains tweets that are labeled as either hate speech, offensive language, or neither. The data were pulled from [Hatebase.org](https://www.hatebase.org/), an organization that collects instances of potential hate speech. The data were then labeled using [CrowdFlower](https://www.crowdflower.com/), which uses non-specialists to clean and label data. Each tweet was reviewed by three or more people and a majority-wins approach was taken when there was disagreement.
 
 The original source of the data is: https://github.com/t-davidson/hate-speech-and-offensive-language
 
